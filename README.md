@@ -93,4 +93,4 @@ Breakdown of sales metrics across Grocery Stores and Supermarkets.
 
 6. Screenshots / Demo
 
-Blinkit Sales Dashboard Preview https://github.com/1202Kapil/Blinkit-sales-analytics-dashboard/blob/main/Snap%20short%20of%20Dashboard.JPG
+Blinkit Sales Dashboard Preview https://github.com/1202Kapil/Blinkit-sales-analytics-dashboard/blob/main/Snap%20short%20of%20Dashboard.JPG  Snap short of Dashboard.JPG
