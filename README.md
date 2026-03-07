@@ -25,15 +25,15 @@ Dataset: Blinkit Grocery Sales Data
 
 The dataset includes information about grocery products sold through Blinkit, covering:
 
-Item types and fat content
+a) Item types and fat content
 
-Outlet establishment year
+b) Outlet establishment year
 
-Outlet size and location tier
+c) Outlet size and location tier
 
-Item visibility and ratings
+d) Item visibility and ratings
 
-Sales performance metrics
+e) Sales performance metrics
 
 The dataset contains 8,523 items across multiple outlet types and locations.
 
@@ -46,13 +46,13 @@ Blinkit operates across multiple outlet types and locations. Understanding which
 
 The dashboard aims to:
 
-Monitor overall sales performance
+a) Monitor overall sales performance
 
-Identify top-performing product categories
+b) Identify top-performing product categories
 
-Compare sales across outlet tiers and sizes
+c) Compare sales across outlet tiers and sizes
 
-Analyze customer ratings and product visibility
+d) Analyze customer ratings and product visibility
 
 • Walkthrough of Key Visuals
 
@@ -93,4 +93,4 @@ Breakdown of sales metrics across Grocery Stores and Supermarkets.
 
 6. Screenshots / Demo
 
-Blinkit Sales Dashboard Preview
+Blinkit Sales Dashboard Preview https://github.com/1202Kapil/Blinkit-sales-analytics-dashboard/blob/main/Snap%20short%20of%20Dashboard.JPG
